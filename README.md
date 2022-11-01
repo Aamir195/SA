@@ -32,7 +32,7 @@ characteristics of ADL
 - configuration 
 - heterogenty 
 - architecture analysis
-
+https://drive.google.com/drive/folders/1NO-VHrUeHI5l9UfwAhWGRjk87cJdrlQF?usp=sharing
 Design operators 
 - decomposisiton 
 - replication 
